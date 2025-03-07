@@ -1,0 +1,14 @@
+C:\Users\Zia Laptop\OneDrive\Desktop\visual programing\New folder (2)\MyProject\bin\Debug\net9.0\MyProject.exe
+C:\Users\Zia Laptop\OneDrive\Desktop\visual programing\New folder (2)\MyProject\bin\Debug\net9.0\MyProject.deps.json
+C:\Users\Zia Laptop\OneDrive\Desktop\visual programing\New folder (2)\MyProject\bin\Debug\net9.0\MyProject.runtimeconfig.json
+C:\Users\Zia Laptop\OneDrive\Desktop\visual programing\New folder (2)\MyProject\bin\Debug\net9.0\MyProject.dll
+C:\Users\Zia Laptop\OneDrive\Desktop\visual programing\New folder (2)\MyProject\bin\Debug\net9.0\MyProject.pdb
+C:\Users\Zia Laptop\OneDrive\Desktop\visual programing\New folder (2)\MyProject\obj\Debug\net9.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zia Laptop\OneDrive\Desktop\visual programing\New folder (2)\MyProject\obj\Debug\net9.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\Zia Laptop\OneDrive\Desktop\visual programing\New folder (2)\MyProject\obj\Debug\net9.0\MyProject.AssemblyInfo.cs
+C:\Users\Zia Laptop\OneDrive\Desktop\visual programing\New folder (2)\MyProject\obj\Debug\net9.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\Zia Laptop\OneDrive\Desktop\visual programing\New folder (2)\MyProject\obj\Debug\net9.0\MyProject.dll
+C:\Users\Zia Laptop\OneDrive\Desktop\visual programing\New folder (2)\MyProject\obj\Debug\net9.0\refint\MyProject.dll
+C:\Users\Zia Laptop\OneDrive\Desktop\visual programing\New folder (2)\MyProject\obj\Debug\net9.0\MyProject.pdb
+C:\Users\Zia Laptop\OneDrive\Desktop\visual programing\New folder (2)\MyProject\obj\Debug\net9.0\MyProject.genruntimeconfig.cache
+C:\Users\Zia Laptop\OneDrive\Desktop\visual programing\New folder (2)\MyProject\obj\Debug\net9.0\ref\MyProject.dll
